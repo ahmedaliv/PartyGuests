@@ -34,7 +34,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>People Invited to the Party</h1>
+      <h1>People Invit  ed to the Party</h1>
       <List people={people} isLoading={people.length === 0} gotData={gotData} setPeople={setPeople} />
       <AddToList people={people} setPeople={setPeople} />
     </div>
