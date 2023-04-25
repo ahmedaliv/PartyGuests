@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # PartyGuests
 
 PartyGuests is a very simple web app. built with React.js and TypeScript. Its purpose is to allow users to enter people invited to a party
@@ -16,4 +14,3 @@ PartyGuests is a very simple web app. built with React.js and TypeScript. Its pu
 - HTML/CSS
 
 Feel free to use this app as a reference or a starting point for your own projects. If you have any questions or feedback, please don't hesitate to contact me.
->>>>>>> c29026e895d81390a9a0dd1af19e841a3adf0bf5
